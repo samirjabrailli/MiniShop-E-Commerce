@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Basket from '../Component/Basket'
 
 function Card() {

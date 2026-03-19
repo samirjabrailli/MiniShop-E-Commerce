@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 
 import './App.css'
 import Header from './Component/Header'
@@ -12,7 +12,7 @@ import { BasketProvider } from './context/BasketContext'
 import Footer from './Component/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <BasketProvider>

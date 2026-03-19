@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Hom from '../Component/Home'
 
 function Home() {

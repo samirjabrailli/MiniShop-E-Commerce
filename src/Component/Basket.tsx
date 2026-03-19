@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { useBasket } from '../context/BasketContext';
 
 interface Product {
